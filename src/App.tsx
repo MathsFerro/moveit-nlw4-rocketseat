@@ -10,7 +10,7 @@ function App() {
       <Button color="blue" >
         Botão 2
       </Button>
-      
+
       <Button >
         Botão 3  
       </Button> 
